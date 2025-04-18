@@ -17,6 +17,7 @@ _This is the living logbook of the Linux Node Cluster project. Documenting every
 - Chose Ubuntu 20.04 LTS for its stability.
 - Outlined the repo structure and essential setup scripts.
 
+
 **Thoughts:**
 - Might explore both Docker Swarm and Kubernetes use cases.
 - Need to plan for automated provisioning and health checks later.
