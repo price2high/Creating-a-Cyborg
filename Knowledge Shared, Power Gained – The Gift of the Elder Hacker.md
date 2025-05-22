@@ -5,9 +5,9 @@
 > *"Sometimes, the most powerful upgrades come not from a USB port, but from human connection."*
 
 ### 📓 Log Start:
-This weekend, the lab became a workshop of renewal. Not for machines alone, but for the spirit of learning and camaraderie that powers every real cyborg. I was reimaging a busted laptop—an old Dell that had seen too many logins and too few updates. But I wasn’t alone.
+This weekend, the lab became a workshop of renewal. Not for machines alone, but for the spirit of learning and camaraderie that powers every real cyborg. I was reimaging a busted laptop—an old HP that had seen too many logins and too few updates. But I wasn’t alone.
 
-One of my classmates—a seasoned presence in our cohort, older, wiser, and calm like a long-running server—offered to help. They'd seen the struggle on my face and stepped in with quiet confidence.
+One of my classmates—a seasoned presence in our cohort, older, wiser, and calm like a long-running server—offered to help.
 
 ---
 
@@ -26,7 +26,7 @@ I was taking mental notes faster than `journalctl` logs boot sequences.
 
 ### 💻 The Gift: An Arch-Powered MacBook
 
-Later that evening, while checking BIOS configs and loading drivers from a side terminal, they said:
+While checking BIOS configs and loading drivers from a side terminal, they said:
 
 > *"You’re always helping folks. Making sure no one’s left behind. Keep this going."*
 
@@ -40,7 +40,7 @@ My jaw hit the floor. This wasn’t just hardware—it was a passing of the torc
 
 ### 🤖 Why It Mattered
 
-In class, I try to keep the flow going. Help others troubleshoot `nmap` flags, walk people through VMware bridge configs, and make sure no one falls behind when things get too fast.
+In class, I try to keep the flow going. Help others troubleshoot `nmap` flags, walk people through VirtualBox bridge configs, and make sure no one falls behind when things get too fast.
 
 That energy was reflected back this weekend.
 
