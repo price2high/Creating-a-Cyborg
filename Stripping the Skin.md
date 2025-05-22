@@ -7,7 +7,6 @@
 ### 📓 Log Start:
 The mission was simple: remove the corporate chains of a repurposed HP work laptop and install Arch Linux—a clean slate, fully under my control. But it was more than just swapping OSs. This was a ritual. A rebirth.
 
-The irony? I was doing this from macOS. But that too had to go.
 
 ---
 
