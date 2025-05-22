@@ -16,7 +16,7 @@ Originally a corporate Windows device, someone had installed macOS on it via Ope
 
 ---
 
-### 💥 Step 1: Erase macOS Like a Memory Wipe
+### 💥 Step 1: Erase Windows Like a Memory Wipe
 
 I booted from a USB using **Ventoy**, which I loaded with the **Arch ISO**.
 
@@ -31,7 +31,7 @@ On boot:
 - Launched the Arch installer.
 
 **`/dev/sda` was wiped clean.**  
-Mac partitions? Gone. I used `cfdisk` to create new ones:
+Windows partitions? Gone. I used `cfdisk` to create new ones:
 - `/boot` (512MB, EFI)
 - `/` (40GB, ext4)
 - `/home` (rest of disk, ext4)
@@ -39,8 +39,7 @@ Mac partitions? Gone. I used `cfdisk` to create new ones:
 
 ---
 
-### 🧠 Step 2: Install Arch — Minimalist and Manual
-
+### 🧠 Step 2: Install Arch — GNOME
 Connected to Wi-Fi using:
 ```bash
 iwctl
